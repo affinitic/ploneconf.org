@@ -1,6 +1,9 @@
 Unreleased
 ----------
 
+- Change title and link for register button
+  [jchandelle]
+
 - Fix Venue block description
   [mpeeters]
 

@@ -33,13 +33,13 @@ const Body = (props) => {
             content={
               <>
                 <FormattedMessage
-                  id="Register now!"
-                  defaultMessage="Register now!"
+                  id="Watch talks!"
+                  defaultMessage="Watch talks!"
                 />{' '}
-                <Icon name="ticket" />
+                <Icon name="youtube" />
               </>
             }
-            href="https://2022.ploneconf.org/tickets"
+            href="/schedule/talks"
             className="cta-register"
             notContainer
           />

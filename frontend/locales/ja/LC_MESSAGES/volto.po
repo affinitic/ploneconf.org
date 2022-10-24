@@ -180,11 +180,6 @@ msgstr ""
 msgid "Please choose an existing content as source for this element"
 msgstr ""
 
-#: components/Blocks/Countdown/Body
-# defaultMessage: Register now!
-msgid "Register now!"
-msgstr ""
-
 #: components/Blocks/Schedule/Schema
 # defaultMessage: Registration
 msgid "Registration"
@@ -273,6 +268,11 @@ msgstr ""
 #: components/Blocks/HeroImage/Edit
 # defaultMessage: Uploading image
 msgid "Uploading image"
+msgstr ""
+
+#: components/Blocks/Countdown/Body
+# defaultMessage: Watch talks!
+msgid "Watch talks!"
 msgstr ""
 
 #: components/Blocks/Nuclia/Schema

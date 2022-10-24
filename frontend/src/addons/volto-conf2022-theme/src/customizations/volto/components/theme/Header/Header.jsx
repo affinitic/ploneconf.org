@@ -52,8 +52,8 @@ class Header extends Component {
               </div>
               <Navigation pathname={this.props.pathname} />
               <CTA
-                content="Register now!"
-                href="https://2022.ploneconf.org/tickets"
+                content="Watch talks!"
+                href="/schedule/talks"
                 className="cta-register"
                 notContainer
               />
